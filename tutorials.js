@@ -342,3 +342,6 @@ function myFunction() {
       document.getElementById("demo").value = "";
     }
 }
+
+var Names =["Sithum","Praveen","Thamindu"];
+Names.push("Shashi");
